@@ -145,21 +145,21 @@ Resources that have been helpful with / for my kid.
 
 ---
 
-## 
+## Digital Microscope
 
-![]()
+![](https://m.media-amazon.com/images/I/715XiGulOOL._AC_SX679_.jpg)
 
 <details>
   <summary>
+    I should have gotten this way earlier, they're super cheap now...
   </summary>
   <hr>
   <p>
+    I had no idea how cheap these had gotten. I was planning to get him a standard microscope but realized after getting a little reflector telescope and kids binoculars that he couldn't really engage too much with optical stuff that we couldn't look at together and talk about. Really glad I stumbled across this randomly, should have gotten it way earlier. This one can run off an internal chargable battery and is small enough to take hiking or have in the backyard and cheap enough to just let him play with freely. He get's sporatically super excited to look at rocks plants etc with it but definitely not part of his daily routine. I wish he had had it as soon as he was born.
   </p>
 </details>
 
-[]()
-[]()
-[]()
+[Seems like solid options still run around $35](https://www.amazon.com/s?k=digital+microscope)
 
 
 
