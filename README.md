@@ -3,7 +3,7 @@ Resources that have been helpful with / for my kid.
 
 ---
 
-## Sears Computron c. 1987
+## Sears Computron
 
 ![computron](https://preview.redd.it/9ecuzdrsdyh61.jpg?width=1080&crop=smart&auto=webp&s=0447a00f248ce1677cfd6367db490fc43e93f169)
 
@@ -30,7 +30,7 @@ Resources that have been helpful with / for my kid.
 
 ---
 
-## ThinkPad T470 
+## ThinkPad 
 (or Mac Mini or Raspberry Pi 4) 
 
 ![computron](https://media.karousell.com/media/photos/products/2024/9/14/lenovo_thinkpad_t470_corei5_16_1726302643_5afaf768_progressive.jpg)
@@ -167,21 +167,41 @@ Resources that have been helpful with / for my kid.
 
 ---
 
-## 
+## Salmon
 
-![]()
+![](https://i.ytimg.com/vi/1uUSUsZtJ20/maxresdefault.jpg)
 
 <details>
   <summary>
+    Salmon, broccoli and rice 1-3 times a week...
   </summary>
   <hr>
   <p>
+    My mom always did this with me, pretty self-explanatory. Brain food maybe. Who knows? Baked the salmon, blanched the broccoli in the microwave. Subbed out broccoli for avocado or cucumber pretty regularly. Side-note, put a little Memmi sauce on the broccoli and salmon, he loved it and dumps it on everything now including macaroni and cheese(?). It's like a sweet savory pretty light japanese dipping sauce mainly for tempura. Anyway it always gets him eating his broccoli. Didn't regulate hs diet too much outside this. Never did soda, never did dino nuggets (accidentally, also he never like chicken nuggets / strips etc), tried to avoid super processed stuff but let him eat what his friends were eating, occaisionally do ice cream or gummi bears etc.
   </p>
 </details>
 
-[]()
-[]()
-[]()
+[Memmi sauce always (randomly) helps him finish his salmon and broccoli](https://www.amazon.com/s?k=memmi+sauce)
+
+
+
+
+
+---
+
+## Pointing while Reading
+
+![](https://blog.allaboutlearningpress.com/wp-content/uploads/2015/04/skip-small-words-3-600x450.jpg)
+
+<details>
+  <summary>
+    Didn't do this super intentionally but seemed to help...
+  </summary>
+  <hr>
+  <p>
+    Felt normal to always point while I was reading to him early on. We read a lot but not constantly. Had him point sometimes while I read. Talked occaisionally about what letters made what sounds, consonants and vowels, basic stuff that was probably mostly nonsense to him. Went really slow sometimes to sound words out. Overall I feel like this might have been the biggest factor in him starting to read early but impossible to say for sure.
+  </p>
+</details>
 
 
 
@@ -201,9 +221,77 @@ Resources that have been helpful with / for my kid.
   </p>
 </details>
 
-[]()
-[]()
-[]()
+
+
+
+
+---
+
+## 
+
+![]()
+
+<details>
+  <summary>
+  </summary>
+  <hr>
+  <p>
+  </p>
+</details>
+
+
+
+
+
+---
+
+## 
+
+![]()
+
+<details>
+  <summary>
+  </summary>
+  <hr>
+  <p>
+  </p>
+</details>
+
+
+
+
+
+---
+
+## 
+
+![]()
+
+<details>
+  <summary>
+  </summary>
+  <hr>
+  <p>
+  </p>
+</details>
+
+
+
+
+
+---
+
+## 
+
+![]()
+
+<details>
+  <summary>
+  </summary>
+  <hr>
+  <p>
+  </p>
+</details>
 
 
 
